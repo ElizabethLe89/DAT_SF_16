@@ -1,0 +1,1 @@
+Hello, I'm Elizabeth. I am originally from Orange County and moved to San Francisco about a year ago. I enjoy camping, backpacking and any type of outdoor cooking. I currently live in the Inner Sunset and enjoy being near Golden Gate Park.
