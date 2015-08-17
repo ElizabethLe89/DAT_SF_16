@@ -1,0 +1,9 @@
+2. Describe content of the dataset
+ Dataset is based on 768 females at least 21y/o of Pima Indian heritage from Phoenix, Ariona 
+ and includes 9 attributes. Attributes include number of times pregnant, plasma glucose 
+ concentration a 2hrs in oral glucose tolerance test, diastolic blood pressure (mm HG), triceps 
+ skin fold thickness(mm) 2-Hour serum insulin (mu U/ml), body mass index (weight kg/height 
+ in m^2), diabetes pedigree function, age, class variable (0-negative, 1-positive),respectively. 
+
+3. Describe the features and formulate hypothesis
+ 
