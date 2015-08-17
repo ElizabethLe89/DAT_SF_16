@@ -1,9 +1,17 @@
 2. Describe content of the dataset
  Dataset is based on 768 females at least 21y/o of Pima Indian heritage from Phoenix, Ariona 
- and includes 9 attributes. Attributes include number of times pregnant, plasma glucose 
+ and includes 8 attributes plus class. Attributes include number of times pregnant, plasma glucose 
  concentration a 2hrs in oral glucose tolerance test, diastolic blood pressure (mm HG), triceps 
  skin fold thickness(mm) 2-Hour serum insulin (mu U/ml), body mass index (weight kg/height 
- in m^2), diabetes pedigree function, age, class variable (0-negative, 1-positive),respectively. 
-
+ in m^2), diabetes pedigree function, age, respectively and class variable (0-negative, 
+ 1-positive)
+ 
 3. Describe the features and formulate hypothesis
+ Features of the dataset include 4 files related to cost- cost, delay, expense and group. Cost
+ is based in Canadian dollars from the Ontario Health Insurance Program's fee schedule. Delay 
+ accounts for tests which are either "delayed" or "immediate". Expense accounts for full cost or 
+ discount cost of the test, typical difference between full and discounted is $2.10. Group file
+ is meant to be used with expense file. When tests are done in groups, there may be discounts. 
+ Attributes that would be useful in predicting diabetes would be correlation of age, BMI, higher 
+ Diabetes pedigree function and number of pregnancies with testing positive for diabetes. 
  
